@@ -22,4 +22,4 @@ I will be using CO2 emission data set by country from [Kaggle](https://www.kaggl
 5. Tablue public for dashboarding
 
 ## Demo
-[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/co2_emission_dashboard)
+[Try it on my profile](http://ec2-52-43-46-199.us-west-2.compute.amazonaws.com/co2_emission_dashboard)
